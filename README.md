@@ -15,11 +15,11 @@ Install [Docker][].
 ## Running
 
 Have a directory ready to store your znc config. Mine is in ~/znc.
-If you already have a znc config directory, change run-zsh.sh to use the correct directory.
+If you already have a znc config directory, change run-znc.sh to use the correct directory.
 
 Also have a look at the PGID and PUID in that file to reflect your own ID.
 
-Execute `run-zsh.sh` to run the container.
+Execute `run-znc.sh` to run the container.
 
 ## Configuring ZNC
 
