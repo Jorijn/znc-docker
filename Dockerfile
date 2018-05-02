@@ -1,7 +1,7 @@
 FROM alpine:latest
 LABEL maintainer Mijndert Stuij "mijndert@mijndertstuij.nl"
 
-ENV ZNC_VERSION 1.6.6
+ENV ZNC_VERSION 1.7.0
 
 RUN apk --update add --no-cache autoconf automake gettext-dev icu-dev g++ make openssl-dev \
                                 pkgconfig zlib-dev python3 python3-dev wget sudo \
