@@ -8,7 +8,7 @@ This was built just for me so grabbing the source and executing stuff without lo
 
 ## Prerequisites
 
-1. Install [Docker][].
+Install [Docker][].
 
 [Docker]: http://docker.com/
 
